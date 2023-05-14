@@ -2,6 +2,6 @@
 
 
 ## iOS
-0.  Відкрити код в  Xcode 
-1. Під'єднати девайс  до компютера  (бажано відключити  інтернет)
-3.  відкрити  файл  з тестом  і запустити  його (клікнувши  на  іконку run біля  теста )
+0. Open the code in Xcode 
+1. Connect the device to the computer (preferably turn off the Internet)
+3. open the file with the test and run it (by clicking on the run icon next to the test)
